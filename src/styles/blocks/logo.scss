@@ -1,9 +1,0 @@
-.logo {
-  &__image {
-    height: 38px;
-
-    @include onPhablet {
-      height: 56px;
-    }
-  }
-}
